@@ -8,3 +8,6 @@ Domain/IP Lookups:
 * CentalOps Domain Dossier: https://centralops.net/co/DomainDossier.aspx
 * DomainTools Whois: https://whois.domaintools.com
 * IP2Location (IP Geolocation): https://ip2location.com/demo
+<td>
+  <tr>Category</tr>
+  <tr>Link</tr>
