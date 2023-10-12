@@ -29,3 +29,8 @@ Encoding/Decoding:<br>
 Malware/Exploit Databases:<br>
 * Malshare: https://malshare.com
 * Exploit DB: https://www.exploit-db.com/
+
+
+Screenshot captures:<br>
+* Greenshot: https://getgreenshot.org/downloads (Windows, Mac)
+* FlameShot: https://github.com/lupoDharkael/flameshot (Windows, Mac, Linux)
