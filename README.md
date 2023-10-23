@@ -30,6 +30,9 @@ Malware/Exploit Databases:<br>
 * Malshare: https://malshare.com
 * Exploit DB: https://www.exploit-db.com/
 
+Networking:<br>
+* IP Address Guide: https://ipaddressguide.com
+
 
 Screenshot captures:<br>
 * Greenshot: https://getgreenshot.org/downloads (Windows, Mac)
